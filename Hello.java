@@ -18,6 +18,7 @@ public class Hello {
 
     public static void goldLeader() {
 	System.out.println("Loosen up!");
+	System.out.println("Hey there, how are you?"):
         // Gold Leader should add a print statement that says "Loosen up!"
 
 
